@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Tela2">
+    <item
+        android:id="@+id/app_name2"
+        android:title="Tela 2" />
+
+    <item
+        android:id="@+id/app_name"
+        android:title="Tela 3" />
+</menu>
